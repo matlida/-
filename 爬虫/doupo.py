@@ -1,11 +1,4 @@
-"""
-@File    : 《斗破苍穹》小说内容爬取.py
-@Time    : 2019/10/31 10:30
-@Author  : 封茗囧菌
-@Software: PyCharm
 
-      转载请注明原作者
-	  创作不易，仅供分享
  
 """
 import requests
