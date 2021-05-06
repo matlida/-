@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 24 17:30:10 2020
 
-@author: Gdc
-"""
 
 import requests
 import json
